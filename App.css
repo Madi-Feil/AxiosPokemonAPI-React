@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  border-radius: 55px;
+  border: solid black 3px;
+  background-color: darkgray;
+}
+li {
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
